@@ -175,7 +175,7 @@ post==2019.4.13
 prettytable==0.7.2
 prompt-toolkit==1.0.15
 protobuf==3.6.1
-psutil==4.4.2
+psutil==5.6.6
 psycopg2-binary==2.7.5
 ptyprocess==0.5.2
 public==2019.4.13
